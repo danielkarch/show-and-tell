@@ -1,0 +1,17 @@
+.idea/
+*.iml
+
+target/
+
+/.state/
+
+.vscode
+.bloop/
+
+.DS_Store
+
+.metals
+.scannerwork/
+
+# Used by the generate-ticket-layouts script
+end-to-end/ticket-layout-output
